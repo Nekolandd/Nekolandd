@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nekolandd
 - 👀 I’m interested in learning more about programming
-- 🌱 I’m currently learning javaS,c++ and python
+- 🌱 I’m currently learning html,css,c++ and python
 - 📫 How to reach me dianamonterrey04@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love kittys :3
