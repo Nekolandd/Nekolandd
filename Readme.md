@@ -73,11 +73,11 @@ Si querés conocer más sobre mi trabajo, colaborar en un proyecto o simplemente
 
 <p align="left">
   <a href="https://linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="# ¡Hola, soy Diana Monterrey Castillo! 👋
-
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3ECF8E&width=500&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrolladora+Web+&amp;+Mobile;Entusiasta+del+Dise%C3%B1o+UI/UX" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/
+diana-monterrey-c-2a20a2365
+" />
+  </a>
+  <a href="mailto:tu-correo@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dianamonterrey04@gmail.com" />
   </a>
 </p>
-
