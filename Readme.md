@@ -62,7 +62,7 @@ Cuando no estoy frente a una terminal, probablemente me encontrés disfrutando d
 *   🌐 **Infraestructura y Redes:** Me fascina entender cómo se conectan los sistemas y viajan los datos a través del mundo.
 *   🌍 **Idiomas y Culturas:** Me encanta aprender nuevas lenguas; ver el mundo a través de un idioma diferente abre muchísimas puertas.
 *   🎮 **Videojuegos:** Gran entusiasta del gaming, un espacio ideal para desconectar y analizar mecánicas e interfaces desde otra perspectiva.
-*   🐈 **Gatos:** Fiel amante de los felinos (mis compañeros silenciosos de debugging).
+*   🐈 **Gatos:** Fiel amante de los felinos.
 *   🌲 **Naturaleza:** Soy una persona que recarga energías al aire libre. Me apasiona buscar el equilibrio entre la tecnología que construyo y el entorno natural que nos rodea.
 
 ---
