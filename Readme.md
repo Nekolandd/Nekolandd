@@ -49,7 +49,7 @@ A continuación se muestran las tecnologías, herramientas y entornos de desarro
 ### 💻 Entornos de Desarrollo & Herramientas de Trabajo
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,netbeans,git,discord" alt="IDEs & Tools Stack" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,discord" alt="IDEs & Tools Stack" />
   </a>
 </p>
 
