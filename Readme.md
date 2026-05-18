@@ -4,31 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=ffc5d3&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrolladora+Web+%26+Mobile" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <i>«Apasionada por crear interfaces accesibles, código limpio y soluciones eficientes que resuelvan problemas reales.»</i> 🚀
-</p>
 
 <br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="230">
-      🌐 <b>Frontend</b>
-      <br/>
-      <sub>Interfaces modernas, accesibles y optimizadas con Next.js y Shadcn/ui.</sub>
-    </td>
-    <td align="center" width="230">
-      ⚙️ <b>Backend</b>
-      <br/>
-      <sub>Lógica de servidor robusta y gestión eficiente de bases de datos relacionales.</sub>
-    </td>
-    <td align="center" width="230">
-      📱 <b>Móvil</b>
-      <br/>
-      <sub>Aplicaciones nativas fluidas y arquitecturas limpias.</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
