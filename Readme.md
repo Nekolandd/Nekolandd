@@ -1,25 +1,61 @@
 # ¡Hola, soy Diana Monterrey Castillo! 👋
 
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3ECF8E&width=500&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrolladora+Web+&amp;+Mobile;Entusiasta+del+Dise%C3%B1o+UI/UX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3ECF8E&center=true&vCenter=true&width=700&lines=System+Engineering+Student;Web+%26+Mobile+Developer;UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
-> Apasionada por crear interfaces accesibles, código limpio y soluciones eficientes que resuelvan problemas reales. 🚀
+<p align="center">
+  <i>"Apasionada por crear interfaces accesibles, código limpio y soluciones eficientes que resuelvan problemas reales."</i> 🚀
+</p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="230px">
+      🌐 <b>FRONTEND ARCHITECT</b>
+      <br>
+      <sub>Interfaces modernas, accesibles y optimizadas usando Next.js y Shadcn/ui.</sub>
+    </td>
+    <td align="center" width="230px">
+      ⚙️ <b>BACKEND ENGINEER</b>
+      <br>
+      <sub>Lógica de servidor robusta y gestión eficiente de bases de datos relacionales.</sub>
+    </td>
+    <td align="center" width="230px">
+      📱 <b>MOBILE DEVELOPER</b>
+      <br>
+      <sub>Creación de aplicaciones nativas fluidas y arquitecturas limpias.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💫 Sobre Mí
+## 💫 Sistema Principal (`/sobre-mi`)
 
-*   🎓 **Educación:** Cursando el Bachillerato en **Ingeniería en Sistemas** en la **Universidad Nacional de Costa Rica (UNA)**.
-*   📜 **Titulaciones:** Graduada del **Diplomado en Programación de Aplicaciones Informáticas**.
-*   🗣️ **Idiomas:** Español (Nativo) e **Inglés Avanzado** (listo para entornos bilingües). Actualmente con la mirada puesta en explorar nuevos horizontes lingüísticos.
-*   🧠 **Habilidades Blandas:** Comunicación asertiva, excelente trabajo en equipo y mucha paciencia para resolver problemas complejos mediante análisis detallados.
-*   🌱 **Actualmente Aprendiendo:** Perfeccionando mis habilidades en **Python** para backend/automatización y explorando arquitecturas móviles avanzadas.
-
----
-
+```json
+{
+  "origen": "Costa Rica 🇨🇷",
+  "academia": {
+    "universidad": "Universidad Nacional (UNA)",
+    "carrera": "Bachillerato en Ingeniería en Sistemas",
+    "previo": "Diplomado en Programación de Aplicaciones Informáticas"
+  },
+  "idiomas": {
+    "español": "Nativo",
+    "inglés": "Avanzado 🗣️",
+    "próximo": "Explorando nuevos horizontes lingüísticos 🌍"
+  },
+  "habilidades_blandas": [
+    "Comunicación asertiva",
+    "Trabajo en equipo colaborativo",
+    "Paciencia extrema para debugging"
+  ]
+}
+```
 ## 🛠️ Mi Stack Tecnológico
 
 A continuación se muestran las tecnologías, herramientas y entornos de desarrollo con los que trabajo habitualmente:
@@ -59,11 +95,11 @@ A continuación se muestran las tecnologías, herramientas y entornos de desarro
 
 Cuando no estoy frente a una terminal, probablemente me encontrés disfrutando de:
 
-*   🌐 **Infraestructura y Redes:** Me fascina entender cómo se conectan los sistemas y viajan los datos a través del mundo.
-*   🌍 **Idiomas y Culturas:** Me encanta aprender nuevas lenguas; ver el mundo a través de un idioma diferente abre muchísimas puertas.
-*   🎮 **Videojuegos:** Gran entusiasta del gaming, un espacio ideal para desconectar y analizar mecánicas e interfaces desde otra perspectiva.
-*   🐈 **Gatos:** Fiel amante de los felinos.
-*   🌲 **Naturaleza:** Soy una persona que recarga energías al aire libre. Me apasiona buscar el equilibrio entre la tecnología que construyo y el entorno natural que nos rodea.
+[🌐 REDES & INFRAESTRUCTURA]  ██████████████▒░░░  (Fascinación por cómo viajan los datos)
+[🎮 VIDEOJUEGOS]             ██████████████████▒░  (Análisis de mecánicas e interfaces)
+[🌲 NATURALEZA]              ███████████████▒░░░░  (Buscando el equilibrio offline/online)
+[🌍 IDIOMAS & CULTURAS]      ████████████▒░░░░░░░  (Abriendo puertas bilingües globales)
+[🐈 GATOS]                   ████████████████████  (Compañeros silenciosos de código)
 
 ---
 
