@@ -73,9 +73,7 @@ Si querés conocer más sobre mi trabajo, colaborar en un proyecto o simplemente
 
 <p align="left">
   <a href="https://linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/
-diana-monterrey-c-2a20a2365
-" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/diana-monterrey-c-2a20a2365" />
   </a>
   <a href="mailto:tu-correo@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dianamonterrey04@gmail.com" />
