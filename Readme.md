@@ -1,7 +1,7 @@
 # ¡Hola, soy Diana Monterrey Castillo! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3ECF8E&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrolladora+Web+%26+Mobile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=ffc5d3&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrolladora+Web+%26+Mobile" alt="Typing SVG" />
 </p>
 
 <p align="center">
