@@ -87,25 +87,6 @@ Tecnologías, herramientas y entornos con los que trabajo habitualmente:
 
 ---
 
-## 🌿 Más allá del código
-
-Cuando no estoy frente a una terminal, probablemente me encontrás:
-
-| | Interés | En una frase |
-|:---:|:---:|---|
-| 🌐 | **Redes e infraestructura** | Fascinación por cómo viajan y conectan los datos |
-| 🎮 | **Videojuegos** | Desconectar y analizar mecánicas e interfaces |
-| 🌲 | **Naturaleza** | Equilibrio entre tecnología y el entorno |
-| 🌍 | **Idiomas y culturas** | Nuevas lenguas, nuevas perspectivas globales |
-| 🐈 | **Gatos** | Compañeros silenciosos mientras programo |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Redes-🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜-3ECF8E?style=flat-square&labelColor=161b22" alt="Redes"/>
-  <img src="https://img.shields.io/badge/Gaming-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜-58a6ff?style=flat-square&labelColor=161b22" alt="Gaming"/>
-  <img src="https://img.shields.io/badge/Gatos-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩-f778ba?style=flat-square&labelColor=161b22" alt="Gatos"/>
-</p>
-
----
 
 ## 🌐 Conectemos
 
