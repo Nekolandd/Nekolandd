@@ -40,7 +40,7 @@
 
 - Comunicación asertiva
 - Trabajo en equipo colaborativo
-- Paciencia para resolver problemas complejos *(debugging incluido)* 🐛
+- Paciencia para resolver problemas complejos 🐛
 
 **🌱 Aprendiendo ahora**
 
