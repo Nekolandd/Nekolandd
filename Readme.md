@@ -1,52 +1,50 @@
-# ¡Hola, soy Diana Monterrey Castillo! 👋
+# Hi there, I'm Diana Monterrey Castillo! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=ffc5d3&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrolladora+Web+%26+Mobile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=ffc5d3&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student;Mobile+%26+Full-Stack+Developer" alt="Typing SVG" />
 </p>
-
 
 <br/>
 
 ---
 
-## 💫 Sobre mí
+## 💫 About Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Origen-Costa_Rica-3ECF8E?style=for-the-badge&labelColor=161b22" alt="Costa Rica"/>
-  <img src="https://img.shields.io/badge/🎓_UNA-Ingeniería_en_Sistemas-58a6ff?style=for-the-badge&labelColor=161b22" alt="UNA"/>
-  <img src="https://img.shields.io/badge/🗣️_Inglés-Avanzado-238636?style=for-the-badge&labelColor=161b22" alt="Inglés"/>
+  <img src="https://img.shields.io/badge/📍_Location-Costa_Rica-3ECF8E?style=for-the-badge&labelColor=161b22" alt="Costa Rica"/>
+  <img src="https://img.shields.io/badge/🎓_UNA-Systems_Engineering-58a6ff?style=for-the-badge&labelColor=161b22" alt="UNA"/>
+  <img src="https://img.shields.io/badge/🗣️_English-Advanced-238636?style=for-the-badge&labelColor=161b22" alt="English"/>
 </p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎓 Academia**
+**🎓 Education**
 
 - 🏛️ **Universidad Nacional (UNA)**
-- 📚 Bachillerato en **Ingeniería en Sistemas** *(en curso)*
-- 📜 Diplomado en **Programación de Aplicaciones Informáticas**
+- 📚 Bachelor's Degree in **Systems Engineering** *(In Progress)*
+- 📜 Diploma in **Computer Application Programming**
 
-**🗣️ Idiomas**
+**🗣️ Languages**
 
-- 🇪🇸 Español — **Nativo**
-- 🇺🇸 Inglés — **Avanzado**
-- 🌍 Próximo — explorando nuevos horizontes lingüísticos
+- 🇪🇸 Spanish — **Native**
+- 🇺🇸 English — **Advanced (C1)**
 
 </td>
 <td width="50%" valign="top">
 
-**🧠 Habilidades blandas**
+**🧠 Core Competencies**
 
-- Comunicación asertiva
-- Trabajo en equipo colaborativo
-- Paciencia para resolver problemas complejos 🐛
+- Assertive Communication & Collaboration
+- Analytical & Systematic Problem Solving
+- Adaptability & Continuous Learning
 
-**🌱 Aprendiendo ahora**
+**🌱 Currently Expanding**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Backend_%2F_Automatización-3776AB?style=flat-square&labelColor=161b22" alt="Python"/>
-  <img src="https://img.shields.io/badge/Móvil-Arquitectura_avanzada-3ECF8E?style=flat-square&labelColor=161b22" alt="Móvil"/>
+  <img src="https://img.shields.io/badge/Python-Backend_%2F_Automation-3776AB?style=flat-square&labelColor=161b22" alt="Python"/>
+  <img src="https://img.shields.io/badge/Mobile-Advanced_Architecture-3ECF8E?style=flat-square&labelColor=161b22" alt="Mobile Architecture"/>
 </p>
 
 </td>
@@ -55,42 +53,41 @@
 
 ---
 
-## 🛠️ Mi stack tecnológico
+## 🛠️ Technical Stack
 
-Tecnologías, herramientas y entornos con los que trabajo habitualmente:
+Technologies, tools, and environments I work with to build scalable solutions:
 
-### 🎨 Frontend y diseño de interfaces
+### 📱 Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,figma" alt="Frontend y diseño" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" alt="Mobile Development" />
 </p>
 
-<sub>Nota: en proyectos Next.js/React uso <b>Shadcn/ui</b> para interfaces modulares, limpias y accesibles.</sub>
+### 🎨 Frontend & UI/UX Design
 
-### ⚙️ Backend, arquitectura y bases de datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,html,css,figma" alt="Frontend and Design" />
+</p>
+
+<sub>*Note: In Next.js/React ecosystems, I leverage **Shadcn/ui** to build clean, modular, and fully accessible user interfaces.*</sub>
+
+### ⚙️ Backend, Architecture & Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,golang,java,r,cpp,prisma,postgres,mysql" alt="Backend" />
 </p>
 
-### 📱 Desarrollo móvil
+### 💻 Tools & Environments
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" alt="Móvil" />
-</p>
-
-### 💻 Entornos y herramientas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,discord,azure" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,discord,azure" alt="Tools" />
 </p>
 
 ---
 
+## 🌐 Connect With Me
 
-## 🌐 Conectemos
-
-Si querés conocer más sobre mi trabajo, colaborar en un proyecto o charlar de tecnología:
+If you would like to discuss professional opportunities, collaborate on technical projects, or simply talk about software engineering, feel free to reach out:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diana-monterrey-c-2a20a2365" target="_blank">
