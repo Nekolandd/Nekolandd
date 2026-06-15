@@ -1,4 +1,4 @@
-# Diana Monterrey Castillo
+# Hi there, I'm Diana Monterrey Castillo!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=ffc5d3&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student;Web+Developer" alt="Systems Engineering Student | Web Developer" />
